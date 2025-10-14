@@ -26,8 +26,3 @@ rootfs/www/index.html — placeholder web UI file.
 
 - Download and extract: tar -xzf firmware.bin and inspect rootfs/.
 - Search for sensitive strings: grep -R "admin" -n rootfs/ to find hardcoded creds
-
-
-create a slightly more realistic sample containing a compiled ELF binary (so you can practice objdump/strings/ghidra) — I can generate and compile one here and provide its firmware image.
-
-Which of those would you like me to do next?
