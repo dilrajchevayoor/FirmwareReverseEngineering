@@ -1,7 +1,7 @@
-Details
-Filename: firmware.bin
-SHA256: 7cf092ae6532802711cec24f5864ca98cf5ba3fd5ab2b0ef14e200abc149223e
-Size: 804 bytes
+- Details
+- Filename: firmware.bin
+- SHA256: 7cf092ae6532802711cec24f5864ca98cf5ba3fd5ab2b0ef14e200abc149223e
+- Size: 804 bytes
 
 Contains (tar listing):
 - rootfs/README.txt
