@@ -1,5 +1,5 @@
 ## Artifacts provided
-- firmware_elf.bin — tar.gz containing rootfs with a compiled ELF daemon at `/bin/demodaemon`
+- firmware_elf.bin containing rootfs with a compiled ELF daemon at `/bin/demodaemon`
 ## Example checksums (from a session build)
 - Example firmware_elf.bin SHA256: a06985593d16007638d3efbeca24d6fbabe5bdbc47b8803a57845df1c8146ead
 
